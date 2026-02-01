@@ -1,0 +1,45 @@
+# =====================
+# Python virtual envs
+# =====================
+env/
+venv/
+.venv/
+agent_env/
+
+# =====================
+# Auto-generated source / deps
+# =====================
+source/
+src/
+
+# =====================
+# Environment variables
+# =====================
+.env
+.env.*
+*.env
+
+# =====================
+# Python cache & build
+# =====================
+__pycache__/
+*.py[cod]
+
+# =====================
+# Build / packaging
+# =====================
+build/
+dist/
+*.egg-info/
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# OS / Editor
+# =====================
+.DS_Store
+.vscode/
+.idea/
