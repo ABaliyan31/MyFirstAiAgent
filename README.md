@@ -13,7 +13,7 @@ The pipeline is implemented using **LangGraph**, **LangChain**, and **OpenAI** m
 ## 📁 Project Structure
 
 ```
-ai_agent_project/
+MyFirstAiAgent/
 ├── app/ or main.py        # Your main Python script (LangGraph workflow)
 ├── agent_env/             # Python virtual environment (ignored by git)
 ├── source/                # Auto-generated dependency folder (ignored by git)
@@ -45,7 +45,7 @@ python3 --version
 ### 1️⃣ Clone the repository
 
 ```bash
-cd ai_agent_project
+cd MyFirstAiAgent
 ```
 
 ---
